@@ -9,6 +9,7 @@ django-debug-toolbar==3.8.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 phonenumbers==8.13.3
+python-magic==0.4.15
 whitenoise==6.3.0
 django-autoslug==1.9.8
 Faker==16.4.0
