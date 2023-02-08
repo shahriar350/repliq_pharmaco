@@ -1,4 +1,4 @@
-Django==4.1.5
+Django==4.1.6
 django-cors-headers==3.13.0
 django-dirtyfields==1.9.0
 django-filter==22.1
@@ -8,13 +8,8 @@ django-versatileimagefield==2.2
 django-debug-toolbar==3.8.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
-importlib-metadata==6.0.0
-Markdown==3.4.1
 phonenumbers==8.13.3
-Pillow==9.4.0
-PyJWT==2.6.0
 whitenoise==6.3.0
-python-magic-bin==0.4.14
 django-autoslug==1.9.8
 Faker==16.4.0
 django-cleanup==6.0.0
